@@ -1,0 +1,37 @@
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+/* Set max-width to images */
+#content img {
+	max-width: 250px; /* 250px is arbitrary */
+}
+
+/* Center heading/footer credits */
+.center {
+	width: 100% !important;
+	text-align: center;
+}
+
+/* Keep links looking crisp */
+a:link, a:visited {
+	text-decoration: underline;
+	color: #0000CC;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: #660066;
+}
+
+
+div.grid1 {
+	float: left;
+	width: 290px;
+}
+
+div.grid2 div {
+	float: left;
+	width: 250px;
+	margin-right: 10px;
+}

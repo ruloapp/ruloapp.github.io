@@ -1,0 +1,124 @@
+body {
+   padding: 0px 0 50px 0;
+   font-size: 16px;
+   min-height: 100%;
+   font-family: Georgia;
+   font-weight: 400;
+   font-style: normal;
+   line-height: 25px;
+}
+
+h1 {
+   font-size: 52px;
+   line-height: 60px;
+   margin: 0px 0px 15px 0px;
+   font-weight: 400;
+   font-style: normal;
+   width: 268.140625px;
+}
+
+h2 {
+   font-size: 36px;
+   line-height: 46px;
+   margin: 0px 0px 25px 0px;
+}
+
+h3 {
+   font-size: 28px;
+   line-height: 36px;
+   margin: 0px 0px 19px 0px;
+}
+
+h4 {
+   margin-bottom: 25px;
+   font-weight: 600;
+   font-style: normal;
+}
+
+p {
+   margin: 0px 0px 25px 0px;
+   text-transform: inherit;
+   font-size: 16px;
+   width: 135.5px;
+}
+
+p.intro {
+   font-size: 20px;
+   line-height: 29px;
+   margin: 0px 0px 13px 0px;
+}
+
+blockquote.pull-quote {
+   margin: 0em 1em 1em 0em;
+   border-left: 3px solid #ccc;
+   padding: 0em 0em 0em 0.7em;
+}
+
+div.content {
+   margin: 0 auto;
+   text-align: left;
+   width: 92.422%;
+   padding: 50px 0px 0px 0px;
+   height: 691px;
+}
+
+h5 {
+   margin: 0px 0px 25px 0px;
+}
+
+p.quote {
+   font-size: 23px;
+   line-height: 28px;
+   font-style: italic;
+   color: #666666;
+   margin: 0px;
+}
+
+blockquote {
+   font-size: 26px;
+   line-height: 37px;
+   margin-bottom: 25px;
+}
+
+img.square {
+   max-width: 100%;
+   width: 123px;
+}
+
+body a {
+}
+
+body a:hover {
+}
+
+body a:visited {
+}
+
+h1 a {
+}
+
+h1 a:hover {
+}
+
+h1 a:visited {
+}
+
+br {
+}
+
+div.basic {
+   margin: 0 auto;
+   text-align: center;
+   width: auto;
+   height: 93px;
+}
+
+p a {
+}
+
+p a:hover {
+}
+
+p a:visited {
+}
+
